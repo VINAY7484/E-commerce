@@ -33,6 +33,31 @@ init
 # Place order
 <img width="943" alt="image" src="https://github.com/VINAY7484/E-commerce/assets/70506939/0b76cf4b-82cc-4904-8f0b-8ceef6a04230">
 
+# Admin Zone
+
+<img width="959" alt="image" src="https://github.com/VINAY7484/E-commerce/assets/70506939/c5abf93d-9927-4f14-a644-143603d19f09">
+
+# Contact Management
+<img width="960" alt="image" src="https://github.com/VINAY7484/E-commerce/assets/70506939/48168b68-ece6-4109-aa11-9a4d28f68074">
+
+# Affiliate Member
+<img width="949" alt="image" src="https://github.com/VINAY7484/E-commerce/assets/70506939/18789af9-39bc-4767-9b08-335a2a576ccb">
+
+# Return Product 
+<img width="952" alt="image" src="https://github.com/VINAY7484/E-commerce/assets/70506939/c400d5f4-6f87-4671-bb28-6f8f8f9a4d03">
+
+# Add Product
+<img width="960" alt="image" src="https://github.com/VINAY7484/E-commerce/assets/70506939/2d718f2c-1efa-4170-aca1-2278a29409fb">
+
+# Password Management
+<img width="932" alt="image" src="https://github.com/VINAY7484/E-commerce/assets/70506939/62083023-24f1-4421-ab8b-c92c40b35be8">
+
+
+
+
+
+
+
 
 
 
